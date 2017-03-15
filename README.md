@@ -1,8 +1,8 @@
-#ARM Assembly
+# ARM Assembly
 This repository contains exmaples of ARM assembly programs. Snippets are cloned from [this repository] (https://github.com/cmcmurrough/cse2312.git), while example programs are authored by [myself](https://github.com/supersonnic). All programs and snippets are in Raspberry Pi ARM Assembly language. For more info read [this book](https://www.amazon.com/Raspberry-Assembly-Language-RASPBIAN-Beginners/dp/1492135283).
 
 ---
-###Summary of Contents
+### Summary of Contents
 * Snippets
   * array.s
   * assembler_hello_world.s
